@@ -4,16 +4,13 @@
   box-sizing: border-box;
 }
 
-.stats {
-  display: flex;
-}
-
 .app,
 body,
 .game-header,
 .stat-item,
 .card-front,
-.card-back {
+.card-back,
+.stats {
   align-items: center;
   display: flex;
 }
